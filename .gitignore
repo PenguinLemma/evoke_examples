@@ -1,0 +1,4 @@
+# Ignore bin, obj, lib folders
+bin/
+obj/
+lib/
